@@ -60,7 +60,7 @@ _____________________________________________________
 ~~~ 
 
 ## Etapa 3. 
-!{(https://github.com/EsmeraldaMD/T3A5/blob/main/Clase%20cuenta.png)}
+![](https://github.com/EsmeraldaMD/T3A5/blob/main/Clase%20cuenta.png)
 
 
 
