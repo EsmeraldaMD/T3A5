@@ -14,7 +14,7 @@ Desarrolla una aplicación de cajero automático en Java en la cual se muestre u
 
 4.Otras opciones
 
-   1.Seguros
+   - Seguros
    
    2.Créditos
    
